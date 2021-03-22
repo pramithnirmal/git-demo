@@ -12,6 +12,6 @@ def multiply(x,y):
 
 #divide implementation: sadfdsfasdfasdsdfads
 def divide(x,y):
-    pass
+    return x/y;
 
 #EDIT MESSAGE
